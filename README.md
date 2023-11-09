@@ -1,3 +1,4 @@
+![image](hero.png)
 - 👋 Hi, I’m Anchal
 - 👀 I’m interested in the interdisciplinary field of Healthcare Informatics.
 - 🌱 I’m currently learning Data Analysis, Visualization and Machine Learning.
